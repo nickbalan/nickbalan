@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Nick Balan / @nickbalan 
 - 👀 I'm interested in Open Source Development 
 - 💞️ I'm looking to collaborate on Open Source Projects  
-- 📫 You can reach me on nicolae.balan@gmail.com
+- 📫 You can reach me on https://www.linkedin.com/in/nickbalan/
 
 <!---
 nickbalan/nickbalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
